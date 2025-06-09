@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: portfolio-site
+    env: static
+    staticPublishPath: .
